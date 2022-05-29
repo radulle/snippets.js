@@ -13,3 +13,4 @@ console.info(fib(2) === 1)
 console.info(fib(7) === 13)
 console.info(fib(42) === 267914296)
 console.info(fib(72) === 498454011879264)
+console.info(fib(2048) === Infinity);
